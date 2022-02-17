@@ -1,0 +1,5 @@
+//es6 -> common js code
+
+{
+    "presets": ["@babel/preset-env"]
+}
